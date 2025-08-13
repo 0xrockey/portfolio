@@ -36,7 +36,7 @@ const Services = () => {
                   onClick={() => toggleTab(0)}
                 ></i>
                 <p className="services__modal-description">
-                  Services with more than 3 years of experience . providing work
+                  Services with more than 2 years of experience . providing work
                   to clients and companies .
                 </p>
                 <ul className="services__modal-services grid">
@@ -99,7 +99,7 @@ const Services = () => {
                   </li>
                   <li className="services__modal-service">
                     <i class="uil uil-check-circle services__modal-icon"></i>
-                    <p>I create ux element interactions</p>
+                    <p>I create Website element interactions</p>
                   </li>
                   <li className="services__modal-service">
                     <i class="uil uil-check-circle services__modal-icon"></i>
@@ -114,7 +114,7 @@ const Services = () => {
           <div>
             <i class="uil uil-web-grid services__icon"></i>
             <h3 className="services__title">
-              Ui/Ux <br /> Designer
+              Back-end <br /> Developer
             </h3>
             <span className="services__button" onClick={() => toggleTab(3)}>
               View more{" "}
@@ -128,19 +128,19 @@ const Services = () => {
               }
             >
               <div className="services__modal-content">
-                <h4 className="services__modal-title">Ui/Ux Designer</h4>
+                <h4 className="services__modal-title">Back-end Developer</h4>
                 <i
                   class="uil uil-times services__modal-close"
                   onClick={() => toggleTab(0)}
                 ></i>
                 <p className="services__modal-description">
-                  Services with more than 3 years of experience . providing work
+                  Services with more than 4 years of experience . providing work
                   to clients and companies .
                 </p>
                 <ul className="services__modal-services grid">
                   <li className="services__modal-service">
                     <i class="uil uil-check-circle services__modal-icon"></i>
-                    <p>I develop the user interface</p>
+                    <p>I develop web pages </p>
                   </li>
                   <li className="services__modal-service">
                     <i class="uil uil-check-circle services__modal-icon"></i>
@@ -148,7 +148,7 @@ const Services = () => {
                   </li>
                   <li className="services__modal-service">
                     <i class="uil uil-check-circle services__modal-icon"></i>
-                    <p>I create ux element interactions</p>
+                    <p>I create and develop APIs </p>
                   </li>
                   <li className="services__modal-service">
                     <i class="uil uil-check-circle services__modal-icon"></i>
