@@ -29,28 +29,28 @@ const Footer = () => {
 
         <div className="footer__social">
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/k.oo.la/?__pwa=1"
             target="_blank"
             className="footer__social-link"
           >
             <i class="bx bxl-instagram"></i>
           </a>
           <a
-            href="https://twitter.com"
+            href="https://x.com/404hatch"
             target="_blank"
             className="footer__social-link"
           >
             <i class="bx bxl-twitter"></i>
           </a>
           <a
-            href="https://facebook.com"
+            href="https://github.com/0xrockey"
             target="_blank"
             className="footer__social-link"
           >
             <i class="bx bxl-github"></i>
           </a>
           <a
-            href="https://twitter.com"
+            href="https://www.linkedin.com/in/mutwakil-hatem-32bab71b2/"
             target="_blank"
             className="footer__social-link"
           >
